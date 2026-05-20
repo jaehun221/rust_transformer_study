@@ -11,3 +11,6 @@ hf download openai-community/gpt2 \
   model.safetensors \
   vocab.json \
   --local-dir ./models
+```
+
+This downloads the required GPT-2 config, weights, and tokenizer files into ./models.
